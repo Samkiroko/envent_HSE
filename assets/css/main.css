@@ -1,0 +1,19 @@
+/*
+Copyright (c) .
+------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	realstate HTML Template
+Version:	
+Assigned to:	Themeforest
+-------------------------------------------------------------------*/
+@import url("style.css");
+@import url("bootstrap.css");
+@import url("flaticon.css");
+@import url("animate.css");
+@import url("fonts.css");
+@import url("responsive.css");
+@import url("../js/plugin/owl/owl.carousel.css");
+@import url("../js/plugin/owl/owl.theme.css");
+@import url("../js/plugin/priceslider/bootstrap-slider.css");
+@import url("toastr.css");

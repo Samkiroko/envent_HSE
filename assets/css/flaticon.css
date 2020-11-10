@@ -1,0 +1,224 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.html#Flaticon") format("svg");
+  }
+}
+.flaticon-add52:before {
+	content: "\e000";
+}
+.flaticon-arrow483:before {
+	content: "\e001";
+}
+.flaticon-arrow484:before {
+	content: "\e002";
+}
+.flaticon-arrow486:before {
+	content: "\e003";
+}
+.flaticon-arrow506:before {
+	content: "\e004";
+}
+.flaticon-back57:before {
+	content: "\e005";
+}
+.flaticon-bathtub3:before {
+	content: "\e006";
+}
+.flaticon-bed40:before {
+	content: "\e007";
+}
+.flaticon-blogger8:before {
+	content: "\e008";
+}
+.flaticon-car211:before {
+	content: "\e009";
+}
+.flaticon-check-mark2:before {
+	content: "\e00a";
+}
+.flaticon-check33:before {
+	content: "\e00b";
+}
+.flaticon-check52:before {
+	content: "\e00c";
+}
+.flaticon-chevron3:before {
+	content: "\e00d";
+}
+.flaticon-clip14:before {
+	content: "\e00e";
+}
+.flaticon-comment33:before {
+	content: "\e00f";
+}
+.flaticon-cross26:before {
+	content: "\e010";
+}
+.flaticon-cross31:before {
+	content: "\e011";
+}
+.flaticon-direction129:before {
+	content: "\e012";
+}
+.flaticon-direction13:before {
+	content: "\e013";
+}
+.flaticon-direction196:before {
+	content: "\e014";
+}
+.flaticon-direction200:before {
+	content: "\e015";
+}
+.flaticon-direction202:before {
+	content: "\e016";
+}
+.flaticon-directional27:before {
+	content: "\e017";
+}
+.flaticon-divide4:before {
+	content: "\e018";
+}
+.flaticon-drawing18:before {
+	content: "\e019";
+}
+.flaticon-email19:before {
+	content: "\e01a";
+}
+.flaticon-email5:before {
+	content: "\e01b";
+}
+.flaticon-envelope32:before {
+	content: "\e01c";
+}
+.flaticon-envelope4:before {
+	content: "\e01d";
+}
+.flaticon-facebook55:before {
+	content: "\e01e";
+}
+.flaticon-fastforward4:before {
+	content: "\e01f";
+}
+.flaticon-go10:before {
+	content: "\e020";
+}
+.flaticon-google116:before {
+	content: "\e021";
+}
+.flaticon-google128:before {
+	content: "\e022";
+}
+.flaticon-indicator:before {
+	content: "\e023";
+}
+.flaticon-keyboard50:before {
+	content: "\e024";
+}
+.flaticon-leftarrows:before {
+	content: "\e025";
+}
+.flaticon-left15:before {
+	content: "\e026";
+}
+.flaticon-left179:before {
+	content: "\e027";
+}
+.flaticon-left208:before {
+	content: "\e028";
+}
+.flaticon-left217:before {
+	content: "\e029";
+}
+.flaticon-left222:before {
+	content: "\e02a";
+}
+.flaticon-left224:before {
+	content: "\e02b";
+}
+.flaticon-left35:before {
+	content: "\e02c";
+}
+.flaticon-list95:before {
+	content: "\e02d";
+}
+.flaticon-magnifying-glass34:before {
+	content: "\e02e";
+}
+.flaticon-mail59:before {
+	content: "\e02f";
+}
+.flaticon-mail80:before {
+	content: "\e030";
+}
+.flaticon-minus104:before {
+	content: "\e031";
+}
+.flaticon-new100:before {
+	content: "\e032";
+}
+.flaticon-paper6:before {
+	content: "\e033";
+}
+.flaticon-phone41:before {
+	content: "\e034";
+}
+.flaticon-pin56:before {
+	content: "\e035";
+}
+.flaticon-pinterest34:before {
+	content: "\e036";
+}
+.flaticon-plus79:before {
+	content: "\e037";
+}
+.flaticon-print47:before {
+	content: "\e038";
+}
+.flaticon-printer89:before {
+	content: "\e039";
+}
+.flaticon-rightarrow49:before {
+	content: "\e03a";
+}
+.flaticon-right11:before {
+	content: "\e03b";
+}
+.flaticon-right138:before {
+	content: "\e03c";
+}
+.flaticon-right176:before {
+	content: "\e03d";
+}
+.flaticon-rightarrows38:before {
+	content: "\e03e";
+}
+.flaticon-rightarrows8:before {
+	content: "\e03f"; 
+}
+.flaticon-search74:before {
+	content: "\e040";
+}
+.flaticon-twitter1:before {
+	content: "\e041";
+}
+.flaticon-verify5:before {
+	content: "\e042";
+}
